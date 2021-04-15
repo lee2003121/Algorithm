@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1582954507 source:f:\정보\2018정올-중등부 두로봇\main.cpp
+	<stdio.h>
+	<vector>
+	<queue>
+
+1582955983 source:e:\정보\2018정올-중등부 두로봇\main.cpp
+	<stdio.h>
+	<vector>
+	<queue>
+

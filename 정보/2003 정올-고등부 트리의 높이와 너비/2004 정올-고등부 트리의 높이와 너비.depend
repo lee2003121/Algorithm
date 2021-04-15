@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585623050 source:e:\정보\2004 정올-고등부 트리의 높이와 너비\main.cpp
+	<stdio.h>
+	<vector>
+	<algorithm>
+

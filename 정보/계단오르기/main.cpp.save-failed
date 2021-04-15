@@ -1,0 +1,14 @@
+#include<stdio.h>
+int stair[30],start;
+
+int main()
+{
+    scanf("%d",&start);
+    stair[1]=1;
+    stair[2]=2;
+    for(int i=3; i<=start; i++)
+    {
+        stair[i]=stair[i-1]+stair[i-2];
+    }
+    printf("%d",stair[start]);
+}

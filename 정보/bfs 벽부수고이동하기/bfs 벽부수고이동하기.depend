@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587798049 source:e:\정보\bfs 벽부수고이동하기\main.cpp
+	<stdio.h>
+	<queue>
+	<algorithm>
+

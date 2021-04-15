@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586681593 source:f:\정보\검은점 저장\main.cpp
+	<stdio.h>
+	<string.h>
+	<algorithm>
+

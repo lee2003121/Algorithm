@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1582625025 source:f:\정보\화살표 그리기\main.cpp
+	<stdio.h>
+	<vector>
+
+1582961630 source:f:\정보\2018 정올 고등부1번 화살표 그리기\main.cpp
+	<stdio.h>
+	<vector>
+	<algorithm>
+

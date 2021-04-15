@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579327794 source:f:\정보\회의실 배정\main.cpp
+	<stdio.h>
+	<queue>
+	<algorithm>
+
